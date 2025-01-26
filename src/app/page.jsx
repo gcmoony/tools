@@ -6,14 +6,14 @@ export default function Home() {
       <div className='flex items-center flex-col '>
         <header className='underline text-xl'>Tools</header>
         <ul className='flex flex-col'>
-          <li>
+          {/* <li>
             <a
               className='p-2 block hover:text-yellow-400'
               href='/tools/Pomo'
             >
               Pomodoro Timer
             </a>
-          </li>
+          </li> */}
           <li>
             <a
               className='p-2 block hover:text-yellow-400'
